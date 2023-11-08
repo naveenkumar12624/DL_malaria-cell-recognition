@@ -1,4 +1,4 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+# EX-04 - Deep Neural Network for Malaria Infected Cell Recognition
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/75235334/193736032-b5847f1f-f002-4edc-912a-eaf48444f1b0.jpg">
